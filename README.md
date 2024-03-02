@@ -1,1 +1,1 @@
-# Keeper App
+# Keeper App - MERN Stack
